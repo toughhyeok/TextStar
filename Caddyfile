@@ -1,0 +1,4 @@
+:80
+
+rewrite /go/(.*) /$1
+redir /go* http://app:8000/{uri}
