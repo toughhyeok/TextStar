@@ -1,7 +1,5 @@
-from django.contrib import admin
-from django.forms import forms
 from django import forms
-
+from django.contrib import admin
 from redirect.models import Redirect
 
 
