@@ -24,4 +24,4 @@ done
 # Create superuser
 docker compose exec app sh -c "python manage.py createsuperuser" || show_error
 
-echo -e "🚀 Now enjoy TextStart at\n\thttp://<alias>/admin"
+echo -e "🌟 Now enjoy TextStart at\n\thttp://<alias>/admin"
