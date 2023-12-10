@@ -14,12 +14,12 @@ This is a TextStar application that allows you to...
     ```bash
     $ sudo ./setup.sh
     [...]
-    🚀 Alias 'ts' added to /etc/hosts
-    🚀 Please execute start.sh as follow:
+    🌟 Alias 'ts' added to /etc/hosts
+    🌟 Please execute start.sh as follow:
 	    './start.sh'
     $ ./start.sh
     [...]
-    🚀 Now enjoy TextStart at
+    🌟 Now enjoy TextStart at
         http://<alias>/admin
     ```
 
